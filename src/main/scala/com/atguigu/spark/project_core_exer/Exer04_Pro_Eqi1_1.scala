@@ -1,4 +1,4 @@
-package com.atguigu.spark.project_sql
+package com.atguigu.spark.project_core_exer
 
 import org.apache.spark.{SparkConf, SparkContext}
 

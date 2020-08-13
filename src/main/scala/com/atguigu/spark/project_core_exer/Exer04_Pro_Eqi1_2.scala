@@ -1,4 +1,4 @@
-package com.atguigu.spark.project_sql
+package com.atguigu.spark.project_core_exer
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.util.AccumulatorV2
